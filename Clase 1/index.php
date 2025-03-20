@@ -1,7 +1,7 @@
 <?php
 
 class User {
-    public type;
+    public $type; 
 }
 
 class Admin {
