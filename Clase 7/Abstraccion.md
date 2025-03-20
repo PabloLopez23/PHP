@@ -1,0 +1,1 @@
+La abstracción en PHP se logra con clases y métodos abstractos, que definen una estructura general sin implementar detalles. Las clases hijas completan esos métodos según sus necesidades, promoviendo un diseño más claro y reutilizable.
