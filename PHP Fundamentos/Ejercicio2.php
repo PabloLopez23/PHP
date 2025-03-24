@@ -13,7 +13,7 @@ if ($_POST){
     <title>Pagina en PHP</title>
 </head>
 <body>
-    <form action="2 HTML en PHP.php" method="post">
+    <form action="Ejercicio2.php" method="post">
         nombre: 
         <input type="text" name="txtNombre" id="txtNombre" placeholder="Nombre"> 
         <br>
